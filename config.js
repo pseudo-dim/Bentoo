@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Dimasss',
+	name: 'Dimass',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
